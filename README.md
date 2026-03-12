@@ -201,22 +201,21 @@ automatically.
 
 ---
 
-## Related Project
+## Build Your Own Automation Assistant
 
-If you want to generate automation tools like this instantly, you can use my AI automation assistant:
+If you want to build your own AI assistant that can help with tasks like:
+
+- cleaning messy datasets
+- generating business reports
+- building automation scripts
+
+you can explore my companion project:
 
 **.pyLee — Python Automation Engineer Assistant**
 
-This AI agent helps generate practical Python automation scripts for tasks such as:
+This project demonstrates how an AI agent can assist in generating practical Python automation tools for real-world workflows.
 
-- data cleaning
-- reporting automation
-- web scraping
-- workflow automation
-
-It is designed to help developers and businesses quickly build automation tools without writing everything from scratch.
-
-🔗 Project link:  
+🔗 Explore the project here:  
 https://github.com/sayeduzzaman-bracu/pyLee-python-automation-assistant
 
 ------------------------------------------------------------------------
