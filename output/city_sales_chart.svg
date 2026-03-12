@@ -1,0 +1,19 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='900' height='360' viewBox='0 0 900 360'>
+<rect width='100%' height='100%' fill='white'/>
+<text x='220' y='35' font-size='24' font-family='Arial' font-weight='bold'>City / Location Sales</text>
+<text x='20' y='94' font-size='15' font-family='Arial'>Dhaka</text>
+<rect x='220' y='70' width='560.00' height='38' rx='6' ry='6' fill='#4F81BD'/>
+<text x='790.00' y='94' font-size='15' font-family='Arial'>43,860.00</text>
+<text x='20' y='144' font-size='15' font-family='Arial'>Chattogram</text>
+<rect x='220' y='120' width='269.40' height='38' rx='6' ry='6' fill='#4F81BD'/>
+<text x='499.40' y='144' font-size='15' font-family='Arial'>21,100.00</text>
+<text x='20' y='194' font-size='15' font-family='Arial'>Sylhet</text>
+<rect x='220' y='170' width='151.55' height='38' rx='6' ry='6' fill='#4F81BD'/>
+<text x='381.55' y='194' font-size='15' font-family='Arial'>11,870.00</text>
+<text x='20' y='244' font-size='15' font-family='Arial'>Rajshahi</text>
+<rect x='220' y='220' width='84.40' height='38' rx='6' ry='6' fill='#4F81BD'/>
+<text x='314.40' y='244' font-size='15' font-family='Arial'>6,610.00</text>
+<text x='20' y='294' font-size='15' font-family='Arial'>Khulna</text>
+<rect x='220' y='270' width='63.46' height='38' rx='6' ry='6' fill='#4F81BD'/>
+<text x='293.46' y='294' font-size='15' font-family='Arial'>4,970.00</text>
+</svg>

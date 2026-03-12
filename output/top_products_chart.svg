@@ -1,0 +1,19 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='900' height='360' viewBox='0 0 900 360'>
+<rect width='100%' height='100%' fill='white'/>
+<text x='220' y='35' font-size='24' font-family='Arial' font-weight='bold'>Top Products by Revenue</text>
+<text x='20' y='94' font-size='15' font-family='Arial'>Monitor</text>
+<rect x='220' y='70' width='560.00' height='38' rx='6' ry='6' fill='#4F81BD'/>
+<text x='790.00' y='94' font-size='15' font-family='Arial'>36,000.00</text>
+<text x='20' y='144' font-size='15' font-family='Arial'>Office Chair</text>
+<rect x='220' y='120' width='303.33' height='38' rx='6' ry='6' fill='#4F81BD'/>
+<text x='533.33' y='144' font-size='15' font-family='Arial'>19,500.00</text>
+<text x='20' y='194' font-size='15' font-family='Arial'>Backpack</text>
+<rect x='220' y='170' width='112.00' height='38' rx='6' ry='6' fill='#4F81BD'/>
+<text x='342.00' y='194' font-size='15' font-family='Arial'>7,200.00</text>
+<text x='20' y='244' font-size='15' font-family='Arial'>Keyboard</text>
+<rect x='220' y='220' width='93.33' height='38' rx='6' ry='6' fill='#4F81BD'/>
+<text x='323.33' y='244' font-size='15' font-family='Arial'>6,000.00</text>
+<text x='20' y='294' font-size='15' font-family='Arial'>Wireless Mouse</text>
+<rect x='220' y='270' width='79.33' height='38' rx='6' ry='6' fill='#4F81BD'/>
+<text x='309.33' y='294' font-size='15' font-family='Arial'>5,100.00</text>
+</svg>

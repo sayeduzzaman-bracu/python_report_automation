@@ -1,0 +1,31 @@
+order_id,order_date,customer_name,product,category,quantity,unit_price,city
+1001,2025-12-01,Karim,Wireless Mouse,Electronics,2,850,Dhaka
+1002,2025-12-01,Nadia,Office Chair,Furniture,1,6500,Chattogram
+1003,2025-12-02,Rahim,Notebook,Stationery,5,120,Dhaka
+1004,2025-12-02,Sadia,Water Bottle,Lifestyle,3,350,Sylhet
+1005,2025-12-03,Imran,Keyboard,Electronics,1,1500,Dhaka
+1006,2025-12-03,Tania,Desk Lamp,Home Decor,2,900,Rajshahi
+1007,2025-12-04,Arif,Pen Pack,Stationery,4,80,Khulna
+1008,2025-12-04,Mitu,Backpack,Accessories,1,1800,Dhaka
+1009,2025-12-05,Hasan,Monitor,Electronics,1,12000,Chattogram
+1010,2025-12-05,Rima,Coffee Mug,Home Decor,3,250,Dhaka
+1011,2025-12-06,Shuvo,Notebook,Stationery,6,120,Sylhet
+1012,2025-12-06,Nusrat,Wireless Mouse,Electronics,1,850,Dhaka
+1013,2026-01-03,Mehedi,Keyboard,Electronics,2,1500,Rajshahi
+1014,2026-01-04,Asha,Office Chair,Furniture,1,6500,Dhaka
+1015,2026-01-05,Rubel,Water Bottle,Lifestyle,4,350,Khulna
+1016,2026-01-06,Faria,Desk Lamp,Home Decor,1,900,Dhaka
+1017,2026-01-07,Sumon,Pen Pack,Stationery,10,80,Chattogram
+1018,2026-01-08,Anika,Backpack,Accessories,2,1800,Sylhet
+1019,2026-01-09,Touhid,Monitor,Electronics,1,12000,Dhaka
+1020,2026-01-10,Lamia,Coffee Mug,Home Decor,5,250,Rajshahi
+1021,2026-02-01,Karim,Notebook,Stationery,8,120,Dhaka
+1022,2026-02-02,Nadia,Wireless Mouse,Electronics,3,850,Khulna
+1023,2026-02-03,Rahim,Desk Lamp,Home Decor,2,900,Dhaka
+1024,2026-02-04,Sadia,Backpack,Accessories,1,1800,Chattogram
+1025,2026-02-05,Imran,Office Chair,Furniture,1,6500,Sylhet
+1026,2026-02-06,Tania,Keyboard,Electronics,1,1500,Dhaka
+1027,2026-02-07,Arif,Pen Pack,Stationery,7,80,Rajshahi
+1028,2026-02-08,Mitu,Coffee Mug,Home Decor,4,250,Dhaka
+1029,2026-02-09,Hasan,Water Bottle,Lifestyle,2,350,Khulna
+1030,2026-02-10,Rima,Monitor,Electronics,1,12000,Dhaka

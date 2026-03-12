@@ -1,0 +1,4 @@
+# No required external packages for the base version.
+# Optional:
+# reportlab
+# openpyxl

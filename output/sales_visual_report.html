@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sales Visual Report</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            color: #222;
+            background: #fafafa;
+        }
+        .container {
+            max-width: 1100px;
+            margin: auto;
+            background: white;
+            padding: 32px;
+            border-radius: 14px;
+            box-shadow: 0 4px 18px rgba(0,0,0,0.08);
+        }
+        h1 {
+            margin-bottom: 10px;
+        }
+        h2 {
+            margin-top: 36px;
+            border-bottom: 2px solid #e5e7eb;
+            padding-bottom: 8px;
+        }
+        .metrics {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(220px, 1fr));
+            gap: 16px;
+            margin: 24px 0 20px 0;
+        }
+        .card {
+            background: #f4f7fb;
+            padding: 18px;
+            border-radius: 12px;
+        }
+        .label {
+            font-size: 13px;
+            color: #555;
+            margin-bottom: 6px;
+        }
+        .value {
+            font-size: 24px;
+            font-weight: bold;
+        }
+        img {
+            max-width: 100%;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            background: white;
+            margin-top: 12px;
+        }
+        ul {
+            line-height: 1.8;
+        }
+        .footer {
+            margin-top: 40px;
+            color: #666;
+            font-size: 13px;
+        }
+        @media print {
+            body {
+                background: white;
+                margin: 0;
+            }
+            .container {
+                box-shadow: none;
+                border-radius: 0;
+                max-width: none;
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Sales Visual Report</h1>
+        <p>Generated from <code>cleaned_sales_data.csv</code></p>
+
+        <div class="metrics">
+            <div class="card">
+                <div class="label">Total Orders</div>
+                <div class="value">30</div>
+            </div>
+            <div class="card">
+                <div class="label">Total Units Sold</div>
+                <div class="value">86.00</div>
+            </div>
+            <div class="card">
+                <div class="label">Total Revenue</div>
+                <div class="value">88,410.00</div>
+            </div>
+            <div class="card">
+                <div class="label">Average Order Value</div>
+                <div class="value">2,947.00</div>
+            </div>
+        </div>
+
+        <h2>Top Products by Revenue</h2>
+        <img src="top_products_chart.svg" alt="Top products chart">
+        <ul>
+            <li><strong>Monitor</strong>: 36,000.00</li>
+<li><strong>Office Chair</strong>: 19,500.00</li>
+<li><strong>Backpack</strong>: 7,200.00</li>
+<li><strong>Keyboard</strong>: 6,000.00</li>
+<li><strong>Wireless Mouse</strong>: 5,100.00</li>
+        </ul>
+
+        <h2>Category Sales</h2>
+        <img src="category_sales_chart.svg" alt="Category sales chart">
+        <ul>
+            <li><strong>Electronics</strong>: 47,100.00</li>
+<li><strong>Furniture</strong>: 19,500.00</li>
+<li><strong>Home Decor</strong>: 7,500.00</li>
+<li><strong>Accessories</strong>: 7,200.00</li>
+<li><strong>Stationery</strong>: 3,960.00</li>
+<li><strong>Lifestyle</strong>: 3,150.00</li>
+        </ul>
+
+        <h2>City / Location Sales</h2>
+        <img src="city_sales_chart.svg" alt="City sales chart">
+        <ul>
+            <li><strong>Dhaka</strong>: 43,860.00</li>
+<li><strong>Chattogram</strong>: 21,100.00</li>
+<li><strong>Sylhet</strong>: 11,870.00</li>
+<li><strong>Rajshahi</strong>: 6,610.00</li>
+<li><strong>Khulna</strong>: 4,970.00</li>
+        </ul>
+
+        <h2>Monthly Sales</h2>
+        <img src="monthly_sales_chart.svg" alt="Monthly sales chart">
+        <ul>
+            <li><strong>2025-12</strong>: 29,590.00</li>
+<li><strong>2026-01</strong>: 29,450.00</li>
+<li><strong>2026-02</strong>: 29,370.00</li>
+        </ul>
+
+        <div class="footer">
+            This report was generated automatically by report_visualizer.py
+        </div>
+    </div>
+</body>
+</html>
