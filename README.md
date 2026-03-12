@@ -201,6 +201,25 @@ automatically.
 
 ------------------------------------------------------------------------
 
+## Related Project
+
+If you want to generate automation tools like this instantly, you can use my AI automation assistant:
+
+**.pyLee — Python Automation Engineer Assistant**
+
+This AI agent helps generate practical Python automation scripts for tasks such as:
+
+- data cleaning
+- reporting automation
+- web scraping
+- workflow automation
+
+It is designed to help developers and businesses quickly build automation tools without writing everything from scratch.
+
+🔗 Project link:  
+https://github.com/sayeduzzaman-bracu/pyLee-python-automation-assistant
+
+------------------------------------------------------------------------
 ## Author
 
 **Sayed Uz Zaman**\
