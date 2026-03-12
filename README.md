@@ -201,7 +201,7 @@ automatically.
 
 ---
 
-## Build Your Own Automation Assistant
+## Companion Project
 
 If you want to build your own AI assistant that can help with tasks like:
 
